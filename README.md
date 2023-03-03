@@ -8,7 +8,7 @@ My primary desktop PC is called P-MGMT01.
 I have a 600M/200M fiber connection and my network stack is currently:
 
 Primary network:
-Cisco ASA5506X + Aruba 6000 switch
+Cisco ASA5506X + Aruba 6000 switch +
 Cisco AIR-AP1852I-E-K9 WLAN AP  
 
 Inbetween primary network and proxmox network:
