@@ -3,7 +3,7 @@ This repository is for my homelab project stuff.
 
 I am running Proxmox virtual environment on an old intel i5-based server called P-PRXMX01. 
 
-My primary desktop PC is called P-MGMT01 in this case. 
+My primary desktop PC is called P-MGMT01. 
 
 I have a 600M/200M fiber connection and my network stack is currently:
 
